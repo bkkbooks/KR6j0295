@@ -1,0 +1,31 @@
+canonical_identifier: bkk:krp/KR6j0295/bkk/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: page-break, offset: 0, content: '', id: KR6j0295_L_000-0719a, ed: L, 'n': 0719a, source_xml_id: L135.1571.0719a}
+  - {type: line-break, offset: 0, content: '', id: KR6j0295_L_000-0719a01, ed: L, 'n': 0719a01}
+  - {type: indent, offset: 5, content: 　, id: KR6j0295_L_000-bkkind1}
+  - {type: indent, offset: 5, content: 　, id: KR6j0295_L_000-bkkind2}
+  - {type: indent, offset: 5, content: 　, id: KR6j0295_L_000-bkkind3}
+  - {type: indent, offset: 5, content: 　, id: KR6j0295_L_000-bkkind4}
+  - {type: indent, offset: 5, content: 　, id: KR6j0295_L_000-bkkind5}
+  - {type: indent, offset: 5, content: 　, id: KR6j0295_L_000-bkkind6}
+  - {type: indent, offset: 5, content: 　, id: KR6j0295_L_000-bkkind7}
+  - {type: indent, offset: 5, content: 　, id: KR6j0295_L_000-bkkind8}
+  - {type: indent, offset: 5, content: 　, id: KR6j0295_L_000-bkkind9}
+  - {type: indent, offset: 5, content: 　, id: KR6j0295_L_000-bkkind10}
+  - {type: line-break, offset: 7, content: '', id: KR6j0295_L_000-0719a02, ed: L, 'n': 0719a02}
+  - {type: xml-element, offset: 7, content: '', id: KR6j0295_L_000-bkkxmlele1, name: list, role: open, attrs: {rend: no-marker}}
+  - {type: xml-element, offset: 7, content: '', id: itemL135p0719a0201, name: item, role: open, attrs: {'xml:id': itemL135p0719a0201}}
+  - {type: xml-element, offset: 20, content: '', id: itemL135p0719a0201_end, name: item, role: close, attrs: {'xml:id': itemL135p0719a0201}}
+  - {type: line-break, offset: 20, content: '', id: KR6j0295_L_000-0719a03, ed: L, 'n': 0719a03}
+  - {type: xml-element, offset: 20, content: '', id: itemL135p0719a0301, name: item, role: open, attrs: {'xml:id': itemL135p0719a0301}}
+  - {type: substitution, offset: 26, original: 齋, replacement: 齊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3904}}
+  - {type: xml-element, offset: 31, content: '', id: itemL135p0719a0301_end, name: item, role: close, attrs: {'xml:id': itemL135p0719a0301}}
+  - {type: xml-element, offset: 31, content: '', id: KR6j0295_L_000-bkkxmlele2, name: list, role: close, attrs: {rend: no-marker}}
+  - {type: line-break, offset: 31, content: '', id: KR6j0295_L_000-0719a04, ed: L, 'n': 0719a04}
+  - {type: line-break, offset: 31, content: '', id: KR6j0295_L_000-0719a05, ed: L, 'n': 0719a05}
+  - {type: line-break, offset: 31, content: '', id: KR6j0295_L_000-0719a06, ed: L, 'n': 0719a06}
+  body: []
+  back: []
+hash: sha256:4886573ffec0901baa309f0d82f11caaf2a6fb0ac42e22938968196a4ff60798

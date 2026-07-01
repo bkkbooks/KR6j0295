@@ -1,0 +1,163 @@
+canonical_identifier: bkk:krp/KR6j0295/v1
+canonical_location: https://kanripo.org/bkk/KR6j0295/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 觀自在菩薩如意輪咒課法
+  identifiers:
+    alt_id:
+    - L135n1571
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/L/L135/L135n1571.xml
+    old_id: L135n1571
+  edition:
+    short: bkk
+editions:
+- short: 龍
+  label: 龍
+  source_xml_id: wit.orig
+- short: L
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0295_000.yaml, hash: 'sha256:40001d131f6e03d454471838c0b0e385f9925ca931b1d2a8bd46590726566cdc'}
+  - {seq: 1, filename: KR6j0295_001.yaml, hash: 'sha256:761c926f3b8c8b8bd1fe030a83aa39a10436d9cb61a0214c381820785087c773'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0295_000.markers.yaml, hash: 'sha256:4886573ffec0901baa309f0d82f11caaf2a6fb0ac42e22938968196a4ff60798'}
+  - {seq: 1, role: markers, filename: assets/KR6j0295_001.markers.yaml, hash: 'sha256:a3bf4e57aac9c3709aa6dee97842ee72dc8ae0a9f8902251a21a083e0b1261bf'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6j0295_L_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0295_L_000-mulu-2
+    span:
+    - front
+    - 31
+    - 31
+  label: 觀自在菩薩如意輪咒課法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0295_L_001-juan-start
+    span:
+    - body
+    - 0
+    - 5852
+  label: 觀自在菩薩如意輪呪課法并序
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0295_L_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0295_L_001-mulu-2
+    span:
+    - body
+    - 342
+    - 342
+  label: 課法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0295_L_001-mulu-3
+    span:
+    - body
+    - 342
+    - 342
+  label: 法式第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0295_L_001-mulu-4
+    span:
+    - body
+    - 1112
+    - 1112
+  label: 觀想第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0295_L_001-mulu-5
+    span:
+    - body
+    - 2130
+    - 2130
+  label: 禮讚第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0295_L_001-mulu-6
+    span:
+    - body
+    - 2503
+    - 2503
+  label: 持誦第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0295_L_001-mulu-7
+    span:
+    - body
+    - 2953
+    - 2953
+  label: 懺願第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0295_L_001-mulu-8
+    span:
+    - body
+    - 3437
+    - 3437
+  label: 證驗第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0295_L_001-mulu-9
+    span:
+    - body
+    - 3997
+    - 3997
+  label: 釋疑第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0295_L_001-mulu-10
+    span:
+    - body
+    - 5639
+    - 5639
+  label: 天台智者大師齋忌禮讚文
+  type: mulu
+  level: 1
+hash: sha256:b741d5307d169d26c6834a7fbcba067cb7ca2056919676d739b3fb4d75b1ef73
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6j0295/l/v1/juan/0
+seq: 0
+front:
+  text: 一法一禮文馳四觀自在菩薩如意輪呪課法并序天台智者大師齋忌禮讚文
+  hash: sha256:1e53e9c42845d2ead996839c62edc8c76f57eff66f99b425c6b373d2e4f0afec
+  markers:
+  - {type: 其他, offset: 0, content: 目次, id: KR6j0295_L_000-mulu-1, level: '1'}
+  - {type: 其他, offset: 31, content: 觀自在菩薩如意輪咒課法, id: KR6j0295_L_000-mulu-2, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀自在菩薩如意輪咒課法
+  edition:
+    short: l
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/L/L135/L135n1571.xml
+    old_id: L135n1571
+hash: sha256:072b8959d386427ecb2403e15035215b549fa4516acf89d171a58e616bbcadef

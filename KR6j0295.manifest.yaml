@@ -21,11 +21,11 @@ editions:
 - short: L
 assets:
   parts:
-  - {seq: 0, filename: KR6j0295_000.yaml, hash: 'sha256:40001d131f6e03d454471838c0b0e385f9925ca931b1d2a8bd46590726566cdc'}
-  - {seq: 1, filename: KR6j0295_001.yaml, hash: 'sha256:761c926f3b8c8b8bd1fe030a83aa39a10436d9cb61a0214c381820785087c773'}
+  - {seq: 0, filename: KR6j0295_000.yaml, hash: 'sha256:072b8959d386427ecb2403e15035215b549fa4516acf89d171a58e616bbcadef'}
+  - {seq: 1, filename: KR6j0295_001.yaml, hash: 'sha256:976ff15f42d4d067ef312344f6cddaa2205953c30bec04fadf9569e56894adf5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0295_000.markers.yaml, hash: 'sha256:4886573ffec0901baa309f0d82f11caaf2a6fb0ac42e22938968196a4ff60798'}
-  - {seq: 1, role: markers, filename: assets/KR6j0295_001.markers.yaml, hash: 'sha256:a3bf4e57aac9c3709aa6dee97842ee72dc8ae0a9f8902251a21a083e0b1261bf'}
+  - {seq: 0, role: markers, filename: assets/KR6j0295_000.markers.yaml, hash: 'sha256:ac614858089a8fb1e85c71bc145db21c7b0a3376770d37bccf61080c0319d4c3'}
+  - {seq: 1, role: markers, filename: assets/KR6j0295_001.markers.yaml, hash: 'sha256:8f2b236d4bd708c83a6c32e6eff2639e61515c79bee8ed72bb38d0cfe8257fb9'}
 table_of_contents:
 - ref:
     seq: 0
@@ -157,7 +157,4 @@ table_of_contents:
   label: 天台智者大師齋忌禮讚文
   type: mulu
   level: 1
-hash: sha256:b741d5307d169d26c6834a7fbcba067cb7ca2056919676d739b3fb4d75b1ef73
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:eeac440914ea85f61b9ae25b50a2434b9b6460368537445609d9b2b09fd1ce48

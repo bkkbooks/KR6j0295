@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0295/v1
 canonical_location: https://kanripo.org/bkk/KR6j0295/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 觀自在菩薩如意輪咒課法
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0295_000.yaml, hash: 'sha256:072b8959d386427ecb2403e15035215b549fa4516acf89d171a58e616bbcadef'}
-  - {seq: 1, filename: KR6j0295_001.yaml, hash: 'sha256:976ff15f42d4d067ef312344f6cddaa2205953c30bec04fadf9569e56894adf5'}
+  - {seq: 1, filename: KR6j0295_001.yaml, hash: 'sha256:bb8f841189e6345c91b58da7bbbc748e62500beb8bf0005f59d634f87d34f3d7'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0295_000.markers.yaml, hash: 'sha256:ac614858089a8fb1e85c71bc145db21c7b0a3376770d37bccf61080c0319d4c3'}
-  - {seq: 1, role: markers, filename: assets/KR6j0295_001.markers.yaml, hash: 'sha256:8f2b236d4bd708c83a6c32e6eff2639e61515c79bee8ed72bb38d0cfe8257fb9'}
+  - {seq: 1, role: markers, filename: assets/KR6j0295_001.markers.yaml, hash: 'sha256:1ede55528d3ca2384bba0f1fd151bdcdfa4692a8b1893c97469fa6a17092e5bb'}
 table_of_contents:
 - ref:
     seq: 0
@@ -157,4 +157,7 @@ table_of_contents:
   label: 天台智者大師齋忌禮讚文
   type: mulu
   level: 1
-hash: sha256:eeac440914ea85f61b9ae25b50a2434b9b6460368537445609d9b2b09fd1ce48
+hash: sha256:89008d163bea9ce222f52d4aa66ece2ef05f6c0026ea98b8b52d0bc70c542fb1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

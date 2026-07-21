@@ -21,17 +21,17 @@ editions:
 - short: L
 assets:
   parts:
-  - {seq: 0, filename: KR6j0295_000.yaml, hash: 'sha256:072b8959d386427ecb2403e15035215b549fa4516acf89d171a58e616bbcadef'}
+  - {seq: 0, filename: KR6j0295_000.yaml, hash: 'sha256:f355e1af35372036df131ad8adb69433ffc98043e0c84f9f75d48a96528bd4ed'}
   - {seq: 1, filename: KR6j0295_001.yaml, hash: 'sha256:bb8f841189e6345c91b58da7bbbc748e62500beb8bf0005f59d634f87d34f3d7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0295_000.markers.yaml, hash: 'sha256:ac614858089a8fb1e85c71bc145db21c7b0a3376770d37bccf61080c0319d4c3'}
+  - {seq: 0, role: markers, filename: assets/KR6j0295_000.markers.yaml, hash: 'sha256:cce847109a7cc629ecae84f7ece7bf999eff0c59fab1a16377de528a3810322c'}
   - {seq: 1, role: markers, filename: assets/KR6j0295_001.markers.yaml, hash: 'sha256:1ede55528d3ca2384bba0f1fd151bdcdfa4692a8b1893c97469fa6a17092e5bb'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6j0295_L_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 目次
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0295_L_000-mulu-2
     span:
-    - front
+    - body
     - 31
     - 31
   label: 觀自在菩薩如意輪咒課法
@@ -157,7 +157,7 @@ table_of_contents:
   label: 天台智者大師齋忌禮讚文
   type: mulu
   level: 1
-hash: sha256:89008d163bea9ce222f52d4aa66ece2ef05f6c0026ea98b8b52d0bc70c542fb1
+hash: sha256:2bb5b9448bbce29ad8f7b39015e81431171984e3b6bdd478fb90c14a9c13ef00
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
